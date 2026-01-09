@@ -1,6 +1,6 @@
 # 🏮 Floating Lanterns - Light Drift
 
-A cozy, meditative 3D browser experience where floating lanterns drift peacefully on a calm, rippling water plane.
+A cozy, meditative 3D browser experience where floating lanterns drift peacefully on a calm, cloudy night sky.
 
 ## Features
 
@@ -17,7 +17,7 @@ A cozy, meditative 3D browser experience where floating lanterns drift peacefull
 - Lanterns accumulate peacefully on the screen
 
 🔊 **Audio**
-- Ambient water and wind sounds (looping background audio)
+- Ambient chimes and wind sounds (looping background audio)
 
 ⚙️ **Technical**
 - Built with React Three Fiber (@react-three/fiber)
@@ -50,7 +50,7 @@ To add ambient sound:
 
 Alternative audio sources (royalty-free):
 - Lofi/ambient backgrounds
-- Nature sounds (water, rain, wind)
+- Nature sounds (sea, chimes, wind)
 - Piano ambience
 
 ## Project Structure
@@ -89,7 +89,7 @@ src/
 
 ## Customization
 
-### Change Water Color
+### Change Sky Color (Was supposed to be a lake)
 In `WaterPlane.jsx`, modify the `color` prop:
 ```jsx
 color="#0d1f4d"  // Current dark blue
